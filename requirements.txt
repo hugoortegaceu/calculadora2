@@ -1,0 +1,6 @@
+bcrypt
+pytest
+sonar-scanner 
+pylint 
+bandit 
+flake8
